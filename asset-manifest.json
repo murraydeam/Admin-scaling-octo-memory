@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Admin-scaling-octo-memory/static/css/main.e6c13ad2.css",
+    "main.js": "/Admin-scaling-octo-memory/static/js/main.2aa2b48e.js",
+    "static/js/787.89a5a135.chunk.js": "/Admin-scaling-octo-memory/static/js/787.89a5a135.chunk.js",
+    "index.html": "/Admin-scaling-octo-memory/index.html",
+    "main.e6c13ad2.css.map": "/Admin-scaling-octo-memory/static/css/main.e6c13ad2.css.map",
+    "main.2aa2b48e.js.map": "/Admin-scaling-octo-memory/static/js/main.2aa2b48e.js.map",
+    "787.89a5a135.chunk.js.map": "/Admin-scaling-octo-memory/static/js/787.89a5a135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2aa2b48e.js"
+  ]
+}
